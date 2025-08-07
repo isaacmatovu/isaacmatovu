@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [school management system](https://schoolmanagement-53cd7.web.app/)
 
+- 🌱 I’m currently learning **React Native**
+
 - 👯 I’m looking to collaborate on [Ecommerce web app](https://fir-gula-92427.web.app/)
 
 - 👨‍💻 All of my projects are available at [https://isaacporti.netlify.app/](https://isaacporti.netlify.app/)
