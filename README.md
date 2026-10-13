@@ -60,22 +60,6 @@ Explore my repositories to see what I'm building:
 
 ---
 
-## 📈 My GitHub Journey
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacmatovu&show_icons=true&hide_border=true&rank_icon=github" alt="Isaac's GitHub statistics" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmatovu&layout=compact&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=isaacmatovu&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always happy to connect with developers, collaborate on meaningful projects, and learn from other engineers.
